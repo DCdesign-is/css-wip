@@ -1,2 +1,2 @@
 # css-wip
-css, flujo de estilos
+css, flujo de estilos y patrones de diseño
